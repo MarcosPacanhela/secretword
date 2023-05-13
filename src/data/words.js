@@ -5,5 +5,7 @@ export const wordsList = {
     computador: ["Mouse", "Teclado", "Monitor", "Gabinete"],
     programação: ["Linguagem", "Framework", "JavaScript", "React"],
     alimento: ["Arroz", "Feijão", "Carne", "Leite", "Ovo"],
+    personagens: ["Rapunzel", "JoséBezerra", "Flash", "Moana", "Valente", "Barbie"],
+    cidade: ["Cambira", "Arapongas", "Miami", "Salvador", "Belém", "FortMyers", "Fortaleza"], 
   };
   
